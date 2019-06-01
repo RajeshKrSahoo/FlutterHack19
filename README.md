@@ -1,6 +1,6 @@
 # chat_on
 
-Chaton is a simple chat service which has features to translate the incoming messages in your native language.
+Chaton is a simple chat service which has features to translate the incoming messages in your native language in the real time to give a hassle free chat service
 
 ## Getting Started
 
